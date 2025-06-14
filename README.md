@@ -49,3 +49,15 @@
 #pragma GCC optimize("-foptimize-sibling-calls")
 #pragma GCC optimize("-fexpensive-optimizations")
 #pragma GCC optimize("inline-functions-called-once")
+
+#indlude <bits/stdc++.h>
+
+using namespace std;
+
+int main(){
+	int n; 
+	for(int i = 0; i < 1e9+7; i++){
+		cout << "1\n";
+	}
+	return 0; 
+}
